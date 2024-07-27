@@ -11,9 +11,16 @@ This file contains the benchmarked dataset used as a reference for analysis.
 added.xlsx
 
 This file contains new data that has been added to the benchmarked dataset.
+
 merged.xlsx
 
 This file contains the merged dataset, combining the benchmarked dataset and the added dataset.
+Description
+
+preprocssed.xlsx
+
+This file contains the merged dataset after applying preprocessing to it.
+
 Description
 
 Benchmarked Dataset
@@ -24,6 +31,9 @@ The added_dataset.xlsx file includes new data entries that have been collected a
 
 Merged Dataset
 The merged_dataset.xlsx file is the result of combining the benchmarked dataset with the added dataset. This file is used for comprehensive analysis that includes both original and new data.
+
+Preprocessed Dataset
+the preprocessed dataset is our own preprocessing techniques applied to the merged dataset
 
 How to Use
 
